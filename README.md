@@ -1,5 +1,5 @@
 # Whatsapp-Chat-Analyzer
-This is a whatsapp chat analyszer which can analyze both group and individuals chat . It is made with the help of python, streamlit and Natural language processing techniques.
+This is a whatsapp chat analyzer which can analyze both group and individuals chat . It is made with the help of python, streamlit and Natural language processing techniques.
 
 
 It shows total number of words, Total number of media files , Total number of links shared , Monthly timeline (How many messages per month ), Most busy day of of 7 days , Most busy month out of 12 months , Weekely Activity Heat map (Lighter the color means most active at that time),In case of group chat analysis it shows the most active user bargraph and all the group member percentage in the total chat, Word Cloud (This shows most frequent used words in the chat ), Most common words barchart, Emoji analysis (What types of emojis used and their equivalent text)
